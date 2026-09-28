@@ -9,3 +9,4 @@ An 11-page review of Omarchy 4.0: how it is built, why DHH made each choice, and
 ![Where the claim holds](screenshots/1-where-the-claim-holds.png)
 ![Gaps and verdict](screenshots/2-gaps-and-verdict.png)
 ![Reversible agent sessions](screenshots/3-fix-reversible-agent-sessions.png)
+![Design rationale with DHH quotes](screenshots/4-design-rationale-dhh-quotes.png)
